@@ -1,0 +1,8 @@
+main: me.rogueart.doctor.Main
+name: Doctor
+version: 1.0.0
+author: RogueArt
+
+commands:
+  Doctor:
+  Feed:

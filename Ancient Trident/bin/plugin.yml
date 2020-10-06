@@ -1,0 +1,6 @@
+name: AncientTrident
+version: 1.0.0
+main: me.rogueart.trident.Main
+api-version: 1.13
+commands:
+  Trident:

@@ -1,0 +1,7 @@
+main: me.rogueart.helloworld.Main
+name: HelloWorld
+version: 1.0.0
+author: RogueArt
+
+commands:
+  Hello:

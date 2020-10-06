@@ -1,0 +1,8 @@
+main: me.rogueart.launch.Main
+name: Launch
+version: 1.0.0
+author: RogueArt
+
+commands:
+  Launch:
+    aliases: lch

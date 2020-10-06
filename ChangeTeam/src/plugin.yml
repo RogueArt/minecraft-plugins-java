@@ -1,0 +1,8 @@
+main: me.rogueart.changeteam.main
+name: ChangeTeam
+version: 1.0.0
+author: Rogue Art
+api-version: 1.13
+
+commands:
+  ChangeTeam:
