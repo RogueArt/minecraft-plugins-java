@@ -2,12 +2,13 @@
 
 Small, cool plugins written in Java made with the help of the Spigot and CraftBukkit APIs. 
 
-**How to Use:**
+# How to Use:
 - Drag and drop the .jar file for each plugin into the plugins section of your Spigot or Bukkit server.
 - Reload the server with /rl confirm
 - Type /pl to confirm that the plugin exists in your server
 - If you can see the plugin listed with /pl, then you can use it. Enjoy!
 
+# Plugin Details:
 **1. HelloWorld**
 - Basic program as intro to Minecraft plugin development. Type /hello and server greets you with a welcome in formatted text
 
