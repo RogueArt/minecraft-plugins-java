@@ -2,6 +2,8 @@
 
 Small, cool plugins written in Java made with the help of the Spigot and CraftBukkit APIs. 
 
+**Pictures will be added soon**
+
 # How to Use:
 - Drag and drop the .jar file for each plugin into the plugins section of your Spigot or Bukkit server.
 - Reload the server with /rl confirm
